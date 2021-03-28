@@ -5,7 +5,7 @@ sidebar_label: Custom Domains
 slug: /custom-domains
 ---
 
-You can use your own domains with localhost.run.
+You  use your own domains with localhost.run.
 
 To do this visit https://admin.localhost.run, add your SSH key to your account for authentication and add a custom domain to your account.
 
